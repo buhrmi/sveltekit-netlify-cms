@@ -9,7 +9,6 @@ A preconfigured SvelteKit skeleton app with Netlify CMS living in `/admin`.
 To download this template, open your command line and run:
 
 ```bash
-# create a new project in the current directory
 git pull https://github.com/buhrmi/sveltekit-netlify-cms
 ```
 
