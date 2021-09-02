@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master
 collections:
   - name: pages
@@ -9,8 +9,8 @@ collections:
     fields:
       - name: title
       - name: body
-media_folder: "static/images/netlify"
-public_folder: "/images/netlify"
+media_folder: "static/netlify"
+public_folder: "/netlify"
 
 # site_url: https://your-site.com
 # display_url: https://your-site.com
