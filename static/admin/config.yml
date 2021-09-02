@@ -1,6 +1,11 @@
 backend:
   name: git-gateway
   branch: master
+collections:
+  - name: pages
+    fields:
+      - name: title
+      - name: body
 media_folder: "static/images/netlify"
 public_folder: "/images/netlify"
 
