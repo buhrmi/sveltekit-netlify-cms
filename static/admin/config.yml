@@ -3,7 +3,8 @@ backend:
   branch: master
 collections:
   - name: pages
-    folder: _netlify/pages
+    label: Pages
+    folder: _pages
     create: true
     fields:
       - name: title
