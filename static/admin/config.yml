@@ -1,6 +1,7 @@
 backend:
   name: github
   branch: master
+  repo: buhrmi/sveltekit-netlify-cms
 collections:
   - name: pages
     label: Pages
