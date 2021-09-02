@@ -8,6 +8,7 @@ collections:
     create: true
     fields:
       - name: title
+      - name: nav_label
       - name: body
         widget: markdown
 media_folder: "static/uploads"

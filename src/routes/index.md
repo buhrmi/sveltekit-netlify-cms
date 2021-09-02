@@ -1,5 +1,6 @@
 ---
-title: 'SvelteKit Netlify CMS'
+label: Home
+title: SvelteKit Netlify CMS
 ---
 
 # Welcome to the SvelteKit Netlify CMS example
