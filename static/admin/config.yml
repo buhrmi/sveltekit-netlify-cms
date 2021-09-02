@@ -1,17 +1,16 @@
 backend:
   name: git-gateway
   branch: main
-  base_url: https://api.netlify.com
 collections:
-  - name: pages
-    label: Pages
-    folder: content/pages
+  - name: routes
+    label: routes
+    folder: src/routes
     create: true
     fields:
       - name: title
       - name: body
-media_folder: "static/netlify"
-public_folder: "/netlify"
+media_folder: "static/uploads"
+public_folder: "/uploads"
 
 # site_url: https://your-site.com
 # display_url: https://your-site.com

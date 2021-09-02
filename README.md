@@ -1,20 +1,13 @@
 # sveltekit-netlify-cms
 
-A preconfigured SvelteKit skeleton app with Netlify CMS living in `/admin`.
+A SvelteKit skeleton app with Netlify CMS living in `/admin`. Netlify CMS is configured to directly edit `/routes/*.md` files, which are preprocessed by [mdsvex](https://mdsvex.com).
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/buhrmi/sveltekit-netlify-cms&amp;stack=cms"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-## Downloading this template
-
-To download this template, open your command line and run:
-
-```bash
-git pull https://github.com/buhrmi/sveltekit-netlify-cms
-```
 
 ## Developing
 
-Once you've downloaded the template and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've downloaded this repo and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
