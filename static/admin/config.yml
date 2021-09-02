@@ -1,0 +1,9 @@
+backend:
+  name: git-gateway
+  branch: master
+media_folder: "static/images/netlify"
+public_folder: "/images/netlify"
+
+# site_url: https://your-site.com
+# display_url: https://your-site.com
+# logo_url: https://your-site.com/images/logo.svg
